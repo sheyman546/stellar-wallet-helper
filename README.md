@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Stellar-Wallet-Toolkit</h1>
+  <h1>stellar-wallet-helper</h1>
   <p><strong>Enterprise-grade wallet integration toolkit for the Stellar ecosystem.</strong></p>
 </div>
 
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-Stellar-Wallet-Toolkit is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
+stellar-wallet-helper is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
 
 ## ✨ Key Features
 
@@ -26,8 +26,8 @@ Stellar-Wallet-Toolkit is a critical component of our decentralized ecosystem. T
 
 \\\ash
 # Clone the repository
-git clone https://github.com/YourOrganization/Stellar-Wallet-Toolkit.git
-cd Stellar-Wallet-Toolkit
+git clone https://github.com/YourOrganization/stellar-wallet-helper.git
+cd stellar-wallet-helper
 
 # Install dependencies and build
 # (Refer to package.json or Cargo.toml for specific build commands)
